@@ -1,4 +1,4 @@
-### Olá, Mundo! 👋
+### Hi there 👋, Im Lucas Guedes 
 
 <!--
 **LCGuedes/LCGuedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
